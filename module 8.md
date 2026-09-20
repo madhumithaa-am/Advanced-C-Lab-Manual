@@ -161,7 +161,7 @@ Program:
 
 
 
-Output:
+Output
 
 
 //paste your output here
